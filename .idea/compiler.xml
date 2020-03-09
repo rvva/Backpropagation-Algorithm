@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="back_propagation" />
+        <module name="Backpropagation-Algorithm" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="11" />

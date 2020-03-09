@@ -1,11 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1f270907-fa1b-4e49-9352-2d03dcc6d858" name="Default Changelist" comment="" />
+    <list default="true" id="1f270907-fa1b-4e49-9352-2d03dcc6d858" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Neuron.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Neuron.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -22,6 +30,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -73,6 +82,7 @@
       <workItem from="1579422305115" duration="20239000" />
       <workItem from="1579517785364" duration="4837000" />
       <workItem from="1580158685676" duration="164000" />
+      <workItem from="1583769128725" duration="257000" />
     </task>
     <servers />
   </component>
@@ -92,6 +102,10 @@
       <screen x="0" y="0" width="1920" height="1033" />
     </state>
     <state x="808" y="406" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1920.1033@0.0.1920.1033" timestamp="1579422350123" />
+    <state x="239" y="0" key="CommitChangelistDialog2" timestamp="1583769258579">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="239" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1583769258579" />
     <state width="1877" height="237" key="GridCell.Tab.0.bottom" timestamp="1580158849157">
       <screen x="0" y="0" width="1920" height="1033" />
     </state>
