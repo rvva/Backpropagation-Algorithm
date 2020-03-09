@@ -8,7 +8,7 @@ public class Neuron {
     private double w2;
     private double sum;//s1(k)
     private double activationFunction;//y1(k)
-    private double derivativeOfAnActivationFunction;//f`(s1(k))
+    private double derivativeOfAnActivationFunction;
 
 
 
@@ -78,19 +78,7 @@ public class Neuron {
         return sum;
     }
 
-    public void setSum(double sum) {
-        this.sum = sum;
-    }
-
-    public Random getRandom() {
-        return random;
-    }
-
-    public void setRandom(Random random) {
-        this.random = random;
-    }
-
-
+    
     public double getW0() {
         return w0;
     }
